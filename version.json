@@ -1,0 +1,7 @@
+{
+  "leastVersion":1,
+  "broadCast":"",
+  "versions":{
+    "v1":{"type":"danger", "message":"Need update"}
+  }
+}
