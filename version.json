@@ -1,7 +1,8 @@
 {
   "leastVersion":1,
-  "broadCast":"",
+  "broadCast":"test",
   "versions":{
-    "v1":{"type":"danger", "message":"Need update"}
+    "v0":{"type":"error", "message":"Must update"},
+    "v1":{"type":"info", "message":"Need update"}
   }
 }
