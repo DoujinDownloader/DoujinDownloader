@@ -16,7 +16,7 @@ You can find and download Doujinshi easily and quickly.<br>
 <img src="/img/05.PNG"><br>
 <br>
 <h2>下载 / Download</h2>
-Support Windows & OSX
+Support Windows & OSX<br>
 <a href="https://github.com/DoujinDownloader/DoujinDownloader/releases/">https://github.com/DoujinDownloader/DoujinDownloader/releases/</a><br>
 <h2>提供支持 / Powered by</h2>
 <a href="https://hitomi.la/">Hitomi.la</a><br>
