@@ -1,10 +1,10 @@
 {
-  "leastVersion":3,
+  "leastVersion":4,
   "broadCast":"",
   "versions":{
     "v0":{"type":"error", "message":"Must update"},
-    "v1":{"type":"error", "message":"Please update"},
-    "v2":{"type":"info", "message":"Please update"},
-    "v3":{"type":"info", "message":"Please update"}
+    "v1":{"type":"error", "message":"Must update"},
+    "v2":{"type":"error", "message":"Must update"},
+    "v3":{"type":"error", "message":"Must update"}
   }
 }
