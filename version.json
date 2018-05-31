@@ -1,5 +1,5 @@
 {
-  "leastVersion":16,
+  "leastVersion":17,
   "broadCast":"",
   "versions":{
     "v0":{"type":"error", "message":"Must update"},
@@ -7,6 +7,7 @@
     "v2":{"type":"error", "message":"Must update"},
     "v3":{"type":"error", "message":"Must update"},
     "v4":{"type":"error", "message":"Must update"},
-    "v5":{"type":"info", "message":"new version updated"}
+    "v5":{"type":"info", "message":"new version updated"},
+    "v16":{"type":"info", "message":"new version updated\nminor fix\nhide from list when hitomi server doesn't upload complete yet"}
   }
 }
