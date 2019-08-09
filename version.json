@@ -1,5 +1,5 @@
 {
-  "leastVersion":21,
+  "leastVersion":22,
   "broadCast":"",
   "versions":{
     "v0":{"type":"error", "message":"Must update"},
