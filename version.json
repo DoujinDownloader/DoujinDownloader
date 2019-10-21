@@ -1,5 +1,5 @@
 {
-  "leastVersion":23,
+  "leastVersion":24,
   "broadCast":"",
   "versions":{
     "v0":{"type":"error", "message":"Must update"},
@@ -14,6 +14,7 @@
     "v19":{"type":"error", "message":"Must update"},
     "v20":{"type":"error", "message":"Must update"},
     "v21":{"type":"error", "message":"Must update"},
-    "v22":{"type":"error", "message":"Must update"}
+    "v22":{"type":"error", "message":"Must update"},
+    "v23":{"type":"error", "message":"Hitomi's site was changed please wait new version"}
   }
 }
