@@ -1,5 +1,5 @@
 {
-  "leastVersion":25,
+  "leastVersion":26,
   "broadCast":"",
   "versions":{
     "v0":{"type":"error", "message":"Must update"},
@@ -16,6 +16,7 @@
     "v21":{"type":"error", "message":"Must update"},
     "v22":{"type":"error", "message":"Must update"},
     "v23":{"type":"error", "message":"Must update"},
-    "v24":{"type":"error", "message":"Must update"}
+    "v24":{"type":"error", "message":"Must update"},
+    "v25":{"type":"error", "message":"Must update"}
   }
 }
